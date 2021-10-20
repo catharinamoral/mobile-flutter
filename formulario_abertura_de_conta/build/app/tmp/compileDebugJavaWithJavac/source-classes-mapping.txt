@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/app_07_formulario_abertura_de_conta/BuildConfig.java
+ com.example.app_07_formulario_abertura_de_conta.BuildConfig
